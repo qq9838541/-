@@ -1,0 +1,22 @@
+body{background: #efefef;}
+*{margin:0px;padding:0px;}
+a{text-decoration: none;color: #000;}
+a:hover{text-decoration: none;}
+.music-box
+{
+    margin-top: 80px;
+}
+.bottom-border
+{
+    height: 125px;
+    border-bottom: 1px solid #eee;
+}
+.tabss
+{
+    margin: 0px;
+}
+
+.tabbox{
+    overflow: hidden;
+
+}
